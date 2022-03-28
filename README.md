@@ -1,4 +1,5 @@
 # [펭귄브로의 3분 딥러닝 파이토치맛] 으로 공부하기
+참고 : https://github.com/keon/3-min-pytorch
 
 ## 3.1 텐서와 Autograd
 
