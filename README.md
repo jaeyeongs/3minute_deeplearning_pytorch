@@ -38,3 +38,15 @@
 ### 8.2 적대적 공격의 종류
 ### 8.3 FGSM 
 
+## [9. 경쟁하며 학습하는 GAN](https://github.com/jaeyeongs/3minute_deeplearning_pytorch/tree/main/09-%EA%B2%BD%EC%9F%81%ED%95%98%EB%A9%B0_%ED%95%99%EC%8A%B5%ED%95%98%EB%8A%94_GAN)
+
+### 9.1 GAN 기초
+### 9.2 GAN으로 새로운 패션 아이템 생성하기
+### 9.3 cGAN으로 생성 제어하기
+
+## [10. 주어진 환경과 상호작용하며 성장하는 DQN](https://github.com/jaeyeongs/3minute_deeplearning_pytorch/tree/main/10-%EC%A3%BC%EC%96%B4%EC%A7%84_%ED%99%98%EA%B2%BD%EA%B3%BC_%EC%83%81%ED%98%B8%EC%9E%91%EC%9A%A9%ED%95%98%EB%A9%B0_%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94_DQN)
+
+### 10.1 강화학습과 DQN기초
+### 10.2 카트폴 게임 마스터하기
+
+
